@@ -1,53 +1,5 @@
 {
   "shows": {
-    "AMBH|113357|20260718|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "08:10 AM",
-      "date": "20260718",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|113357|20260718|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "08:10 AM",
-      "date": "20260718",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "1"
-    },
-    "AMBH|113357|20260718|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "08:10 AM",
-      "date": "20260718",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "1"
-    },
-    "AMBH|113352|20260718|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "08:25 AM",
-      "date": "20260718",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|113352|20260718|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "08:25 AM",
-      "date": "20260718",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "1"
-    },
-    "AMBH|113352|20260718|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "08:25 AM",
-      "date": "20260718",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "1"
-    },
     "AMBH|115095|20260718|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "09:20 AM",
@@ -70,7 +22,7 @@
       "date": "20260718",
       "cat": "LOUNGERS",
       "price": "295.00",
-      "status": "1"
+      "status": "0"
     },
     "AMBH|115135|20260718|SEMI RECLINER": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -127,6 +79,14 @@
       "cat": "LOUNGERS",
       "price": "295.00",
       "status": "0"
+    },
+    "AMBH|115106|20260718|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "12:50 PM",
+      "date": "20260718",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "1"
     },
     "AMBH|113359|20260718|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -352,38 +312,6 @@
       "price": "295.00",
       "status": "1"
     },
-    "PRHN|251807|20260718|GOLD": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "08:00 AM",
-      "date": "20260718",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "0"
-    },
-    "PRHN|252360|20260718|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "08:00 AM",
-      "date": "20260718",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "1"
-    },
-    "PRHN|253382|20260718|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "08:00 AM",
-      "date": "20260718",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "3"
-    },
-    "PRHN|253543|20260718|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "08:00 AM",
-      "date": "20260718",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "3"
-    },
     "PRHN|253575|20260718|EXECUTIVE": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "11:25 AM",
@@ -439,22 +367,6 @@
       "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "1"
-    },
-    "PVUM|27025|20260718|RECLINER": {
-      "venue": "PVR: Musarambagh, Hyderabad",
-      "time": "08:30 AM",
-      "date": "20260718",
-      "cat": "RECLINER",
-      "price": "350.00",
-      "status": "1"
-    },
-    "PVUM|27025|20260718|CLASSIC": {
-      "venue": "PVR: Musarambagh, Hyderabad",
-      "time": "08:30 AM",
-      "date": "20260718",
-      "cat": "CLASSIC",
-      "price": "295.00",
-      "status": "3"
     },
     "PVUM|27026|20260718|RECLINER": {
       "venue": "PVR: Musarambagh, Hyderabad",
@@ -1015,18 +927,98 @@
       "cat": "CLASSIC",
       "price": "295.00",
       "status": "3"
+    },
+    "PRHN|251842|20260725|GOLD": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "08:45 AM",
+      "date": "20260725",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "2"
+    },
+    "PRHN|251843|20260725|GOLD": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "12:15 PM",
+      "date": "20260725",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "2"
+    },
+    "PRHN|251844|20260725|GOLD": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "03:45 PM",
+      "date": "20260725",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "2"
+    },
+    "PRHN|251845|20260725|GOLD": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "07:15 PM",
+      "date": "20260725",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "2"
+    },
+    "PRHN|251846|20260725|GOLD": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "10:45 PM",
+      "date": "20260725",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "2"
+    },
+    "PRHN|251847|20260726|GOLD": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "08:45 AM",
+      "date": "20260726",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "2"
+    },
+    "PRHN|251848|20260726|GOLD": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "12:15 PM",
+      "date": "20260726",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "2"
+    },
+    "PRHN|251849|20260726|GOLD": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "03:45 PM",
+      "date": "20260726",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "2"
+    },
+    "PRHN|251850|20260726|GOLD": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "07:15 PM",
+      "date": "20260726",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "2"
+    },
+    "PRHN|251851|20260726|GOLD": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "10:45 PM",
+      "date": "20260726",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "2"
     }
   },
   "dates": {
     "20260718": "AVAILABLE",
-    "20260719": "BOOKABLE",
+    "20260719": "AVAILABLE",
     "20260720": "AVAILABLE",
     "20260721": "AVAILABLE",
     "20260722": "AVAILABLE",
     "20260723": "AVAILABLE",
     "20260724": "AVAILABLE",
     "20260725": "AVAILABLE",
-    "20260726": "AVAILABLE",
+    "20260726": "BOOKABLE",
     "20260727": "AVAILABLE",
     "20260728": "AVAILABLE",
     "20260729": "AVAILABLE",
