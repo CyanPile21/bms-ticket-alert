@@ -62,7 +62,7 @@
       "date": "20260725",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "AMBH|115337|20260725|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -117,6 +117,86 @@
       "time": "10:30 PM",
       "date": "20260725",
       "cat": "LOUNGERS",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PVUM|27456|20260725|RECLINER": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "11:15 AM",
+      "date": "20260725",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PVUM|27456|20260725|CLASSIC": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "11:15 AM",
+      "date": "20260725",
+      "cat": "CLASSIC",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PVUM|27457|20260725|RECLINER": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "02:50 PM",
+      "date": "20260725",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PVUM|27457|20260725|CLASSIC": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "02:50 PM",
+      "date": "20260725",
+      "cat": "CLASSIC",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PVUM|27458|20260725|RECLINER": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "06:25 PM",
+      "date": "20260725",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PVUM|27458|20260725|CLASSIC": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "06:25 PM",
+      "date": "20260725",
+      "cat": "CLASSIC",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PVUM|27459|20260725|RECLINER": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "10:00 PM",
+      "date": "20260725",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PVUM|27459|20260725|CLASSIC": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "10:00 PM",
+      "date": "20260725",
+      "cat": "CLASSIC",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PVUM|27460|20260726|RECLINER": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "11:15 AM",
+      "date": "20260726",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PVUM|27460|20260726|CLASSIC": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "11:15 AM",
+      "date": "20260726",
+      "cat": "CLASSIC",
       "price": "295.00",
       "status": "3"
     }
